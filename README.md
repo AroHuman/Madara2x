@@ -77,6 +77,7 @@ I'm juggling to get the linux version more reliably maintained.
 
 This project relies on the following software and projects.
 
+- akai-katto
 - waifu2x-caffe
 - waifu2x
 - ffmpeg
